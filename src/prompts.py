@@ -1,0 +1,1 @@
+SUMMARY_TEMPLATE = 'Summarize this: {}'
