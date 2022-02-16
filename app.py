@@ -1,4 +1,3 @@
-from src.summarize import summarize
-txt = st.text_area('Text')
-if st.button('Summarize'):
-    st.write(summarize(txt))
+uploaded = st.file_uploader('Upload PDF')
+if uploaded:
+    st.write('Processing...')
