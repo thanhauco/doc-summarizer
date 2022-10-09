@@ -1,3 +1,2 @@
-uploaded = st.file_uploader('Upload PDF')
-if uploaded:
-    st.write('Processing...')
+st.header('Chat with PDF')
+msg = st.text_input('Ask a question')

@@ -1,0 +1,1 @@
+def chat(msg): return 'response'
