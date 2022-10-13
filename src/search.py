@@ -1,0 +1,2 @@
+def hybrid(query):
+    pass
