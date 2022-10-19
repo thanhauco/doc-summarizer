@@ -1,2 +1,2 @@
-st.header('Chat with PDF')
-msg = st.text_input('Ask a question')
+if 'history' not in st.session_state:
+    st.session_state.history = []
