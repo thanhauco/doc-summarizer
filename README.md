@@ -1,2 +1,8 @@
 # Doc Summarizer
-Summarize docs with GPT-3.
+
+## Phase 2 Features
+- LangChain Integration
+- FAISS Vector Store
+- Chat Interface
+- Multi-doc Support
+- Hybrid Search
