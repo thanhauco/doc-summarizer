@@ -1,1 +1,1 @@
-from src.cost import track_cost
+openai.api_requestor.TIMEOUT_SECS = 30
