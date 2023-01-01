@@ -1,2 +1,3 @@
-def process_multiple(files):
-    return [read(f) for f in files]
+def read_pdf(path):
+    try: reader = PdfReader(path)
+    except: return ''
